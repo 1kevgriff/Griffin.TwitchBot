@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Griffin.TwitchFunctions", "Griffin.TwitchFunctions\Griffin.TwitchFunctions.csproj", "{2FECA42D-5494-4A34-A1B7-B0639FF2FC09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FECA42D-5494-4A34-A1B7-B0639FF2FC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FECA42D-5494-4A34-A1B7-B0639FF2FC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FECA42D-5494-4A34-A1B7-B0639FF2FC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FECA42D-5494-4A34-A1B7-B0639FF2FC09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71C67A84-3296-456C-8131-C901ADDD6AED}
+	EndGlobalSection
+EndGlobal
